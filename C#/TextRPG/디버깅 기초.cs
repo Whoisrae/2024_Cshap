@@ -15,6 +15,8 @@ namespace C_.TextRPG
             Console.WriteLine("Hello, World");
 
             Console.WriteLine("Hello, World");
+
+            Console.WriteLine("Hello, Wprld");
         }
     }
 }
