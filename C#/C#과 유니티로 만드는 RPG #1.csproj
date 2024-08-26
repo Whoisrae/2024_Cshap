@@ -10,33 +10,11 @@
 
   <ItemGroup>
     <Compile Remove="논리연산.cs" />
-    <Compile Remove="데이터 갖고 놀기\논리연산.cs" />
-    <Compile Remove="데이터 갖고 놀기\데이터 마무리.cs" />
-    <Compile Remove="데이터 갖고 놀기\비교연산.cs" />
-    <Compile Remove="데이터 갖고 놀기\산술연산.cs" />
-    <Compile Remove="데이터 갖고 놀기\주석 및 변수.cs" />
-    <Compile Remove="데이터 갖고 놀기\캐스팅 및 스트링포맷.cs" />
     <Compile Remove="데이터 마무리.cs" />
     <Compile Remove="비교연산.cs" />
     <Compile Remove="산술연산.cs" />
     <Compile Remove="주석 및 변수.cs" />
     <Compile Remove="캐스팅 및 스트링포맷.cs" />
-    <Compile Remove="코드의 흐름 제어\break 와 continue.cs" />
-    <Compile Remove="코드의 흐름 제어\For.cs" />
-    <Compile Remove="코드의 흐름 제어\if와 elso.cs" />
-    <Compile Remove="코드의 흐름 제어\ref 와 out.cs" />
-    <Compile Remove="코드의 흐름 제어\switch.cs" />
-    <Compile Remove="코드의 흐름 제어\While.cs" />
-    <Compile Remove="코드의 흐름 제어\가위바위보 게임.cs" />
-    <Compile Remove="코드의 흐름 제어\상수와 열거형.cs" />
-    <Compile Remove="코드의 흐름 제어\연습문제.cs" />
-    <Compile Remove="코드의 흐름 제어\오버로딩.cs" />
-    <Compile Remove="코드의 흐름 제어\함수.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="데이터 갖고 놀기\" />
-    <Folder Include="코드의 흐름 제어\" />
   </ItemGroup>
 
 </Project>
